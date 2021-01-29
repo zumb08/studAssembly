@@ -25,5 +25,7 @@
     la $a0,($t3)  # a0 = t3
     syscall
     li $v0, 10 # Prepara para ser finalizado 
-    syscall 
+    syscall
+    
+     
 
